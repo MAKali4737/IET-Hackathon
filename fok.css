@@ -1,0 +1,30 @@
+h1{
+  font-weight: 700;
+  font-size: 5em;
+  font-family: 'Bree Serif';
+}
+body{
+  margin:0;
+  color:#333;
+}
+h3{
+  font-weight: 200;
+  font-size: 2em;
+  color: #ebde34;
+}
+#particles-js
+{
+  background:firebrick;
+  height: 1000px;
+  padding-top: 0px;
+}
+#content{
+  text-align: center;
+  padding-top: 10%;
+}
+
+
+hr
+{
+  width: 950px;
+}

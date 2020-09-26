@@ -1,0 +1,27 @@
+body
+{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(https://images.unsplash.com/photo-1517639493569-5666a7b2f494?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80);
+	background-size: cover;
+	background-position: center;
+}
+.login-box
+{
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+}
+
+.login-left
+{
+	background: rgba(211,211,211,0.5);
+	padding: 30px;
+}
+.login-right
+{
+	background: #fff;
+	padding: 30px;
+}
+.form-control
+{
+	background-color: transparent !important;
+}
